@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Create a bash script for create a backup of VCM database every 20 minutes.
+Create a bash script for create a backup of database every 20 minutes.
 
 - psql: psql is a terminal-based front-end to PostgreSQL. It enables you to type in queries interactively, issue them to PostgreSQL, and see the query results. 
 - pg_dump: pg_dump is a utility for backing up a PostgreSQL database. It makes consistent backups even if the database is being used concurrently. pg_dump does not block other users accessing the database (readers or writers).
@@ -12,7 +12,7 @@ Create a bash script for create a backup of VCM database every 20 minutes.
 
 ## Requeriments
 
-- Write a bash script that allows create a backup of VCM database every 20 minutes.
+- Write a bash script that allows create a backup of database every 20 minutes.
 
 ## Technologies
 
